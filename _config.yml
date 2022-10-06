@@ -103,3 +103,9 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# hexo-admin authentification
+admin:
+  username: parmuarip
+  password_hash: $2a$10$1uthyM6lGeqYiKo6GUlZ7.hxBJnssdu9bjkwbJIqrYYK1RzQJqafO
+  secret: super-secret
