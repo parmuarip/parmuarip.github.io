@@ -559,6 +559,9 @@ body {
   background-size: 100% 6px;
   background-repeat: repeat-x;
 }
+.content p {
+  text-align: justify;
+}
 @media (min-width: 540px) {
   .image-wrap {
     flex-direction: row;
@@ -1671,5 +1674,5 @@ audio {
   margin-top: 0;
 }
 .signature {
-  text-align: center;
+  text-align: center !important;
 }
