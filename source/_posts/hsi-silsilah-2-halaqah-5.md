@@ -1,12 +1,15 @@
-title: 'SILSILAH 2 HALAQAH 5 - MENGENAL ALLAH SEBAGAI SATU SATUNYA DZAT YANG BERHAK UNTUK DISEMBAH'
+title: >-
+  SILSILAH 2 HALAQAH 5 - MENGENAL ALLAH SEBAGAI SATU SATUNYA DZAT YANG BERHAK
+  UNTUK DISEMBAH
 author: Ustadz Abdullah Roy حفظه لله تعالى
 tags: []
 categories:
   - HSI
   - Silsilah Ilmiyah 2
-date: 2022-10-08
+date: 2022-10-08 00:00:00
 ---
 <audio controls="" src="https://docs.google.com/uc?export=open&id=1zLIUtZaE2S7guZFxp5E8kN-irTQyVdyl"></audio>
+
 <div class="dalil">
 السلام عليكم ورحمة الله وبركاته
 <br>

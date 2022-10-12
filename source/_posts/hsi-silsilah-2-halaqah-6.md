@@ -5,9 +5,11 @@ author: dari Ustadz Abdullah Roy حفظه لله تعالى
 tags: []
 categories:
   - HSI
-  - Silsilah Ilmiyah
-date: 2022-10-11 00:00:00
+  - Silsilah Ilmiyah 2
+date: 2022-10-10 00:00:00
 ---
+<audio controls="" src="https://docs.google.com/uc?export=open&id=1-0Q0jDs6OuGS2SqeE4b-lv-37YbAv96w"></audio>
+
 <div class="dalil">
   السلام عليكم ورحمة الله وبركاته
   <br>

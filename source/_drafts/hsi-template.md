@@ -1,5 +1,5 @@
 title: 'SILSILAH TEMPLATE '
-author: Ustadz Abdullah Roy حفظه لله تعالى
+author: dari Ustadz Abdullah Roy حفظه لله تعالى
 tags: []
 categories:
   - HSI
@@ -13,6 +13,10 @@ date: 2022-10-08 00:00:00
 </div>
 
 
+
+
+
+Itulah yang bisa kita sampaikan pada halaqah kali ini dan sampai bertemu kembali pada halaqah selanjutnya.
 
 <div class="dalil">
 والسلام عليكم ورحمة اللّه وبركاته
