@@ -14,19 +14,19 @@ date: 2022-10-13 00:00:00
   الحمد لله والصلاة والسلام على رسول اللَّهُ وعلى آله وصحبه أجمعين
 </div>
 
-Halaqah yang ke-9 dari silsilah ilmiyyah 'Mengenal Allah' adalah tentang mengenal Allah Subhanahu wa Taala dengan makhluk-Nya.
+Halaqah yang ke-9 dari silsilah ilmiyyah mengenal Allah adalah tentang mengenal Allah Subhanahu wa Taala dengan makhluk Nya.
 
 <p>
   <b>Allah Subhanahu wa Taala telah menciptakan makhluk-makhluk supaya manusia berakal memikirkannya sehingga mereka mengenal Dzat yang telah menciptakan mereka.</b>
-  <br>- Besarnya makhluk serta luasnya, seperti langit yang tujuh, bumi, kursi Allah dan arsy-Nya, menunjukkan kebesaran Allah.
+  <br>- Besarnya makhluk serta luasnya, seperti langit yang tujuh, bumi, kursi Allah dan arsy Nya, menunjukkan kebesaran Allah.
   <br>- Keteraturan pergerakan dan perjalanan, seperti perjalanan matahari dan bulan, menunjukkan kekuasaan dan pengawasan Allah yang tidak berhenti.
-  <br>- Kejelian didalam penciptaan menunjukkan hikmah-Nya dan keluasan ilmu-Nya. 
-  <br>- Manfaat yang ada dalam ciptaannya menunjukkan rahmat Pencipta yang luas dan menunjukkan karunia Allah yang meliputi segala sesuatu.
+  <br>- Kejelian didalam penciptaan menunjukkan hikmah Nya dan keluasan ilmu Nya. 
+  <br>- Manfaat yang ada dalam ciptaan Nya menunjukkan rahmat Pencipta yang luas dan menunjukkan karunia Allah yang meliputi segala sesuatu.
 </p>
 
 Allah berfirman : 
 <div class="dalil">
-  إِنَّ فِي خَلْقِ السَّماواتِ وَالْأَرْضِ وَاخْتِلافِ اللَّيْلِ وَالنَّهارِ لَآياتٍ لِأُولِي الْأَلْبابِ١٩٠ الَّذِينَ يَذْكُرُونَ اللَّهَ قِيامًا وَقُعُوداً وَعَلى جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِي خَلْقِ السَّماواتِ وَالْأَرْضِ رَبَّنا مَا خَلَقْتَ هَذَا باطِلاً سُبْحانَكَ فَقِنا عَذابَ النَّارِ١٩١
+  إِنَّ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَـٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَـٰتٍۢ لِّأُولِى ٱلْأَلْبَـٰبِ١٩٠ ٱلَّذِينَ يَذْكُرُونَ ٱللَّهَ قِيَـٰمًا وَقُعُودًا وَعَلَىٰ جُنُوبِهِمْ وَيَتَفَكَّرُونَ فِى خَلْقِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ رَبَّنَا مَا خَلَقْتَ هَـٰذَا بَـٰطِلًا سُبْحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ١٩١
   <p>
   "Sesungguhnnya didalam penciptaan langit dan bumi, dan pergantian siang dan malam, ada tanda-tanda bagi orang yang memiliki akal, yaitu orang-orang yang mengingat Allah, baik dalam keadaan berdiri, duduk dan berbaring, dan mereka memikirkan penciptaan langit dan bumi. Wahai Rabb kami, tidaklah Engkau menciptakan ini semua dengan bathil (sia-sia). Maha Suci Engkau, maka jagalah kami dari azab neraka." (QS. Ali Imran: 190-191)
   </p>

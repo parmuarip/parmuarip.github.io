@@ -14,9 +14,9 @@ date: 2022-10-11 00:00:00
   الحمد لله والصلاة والسلام على رسول اللَّهُ وعلى آله وصحبه أجمعين
 </div>
 
-Halaqah yang ke-7 dari Silsilah Ilmiyyah 'Mengenal Allah Subhanahu wa Taala' adalah tentang pengertian ibadah dan macam-macamnya.
+Halaqah yang ke-7 dari silsilah ilmiyyah mengenal Allah Subhanahu wa Taala' adalah tentang pengertian ibadah dan macam-macamnya.
 
-Ibadah adalah seluruh perkara yang dicintai dan diridhoi oleh Allah baik berupa ucapan maupun perbuatan yang dzohir maupun yang batin.
+<b>Ibadah adalah seluruh perkara yang dicintai dan diridhoi oleh Allah baik berupa ucapan maupun perbuatan yang dzohir maupun yang batin.</b>
 
 <b>Seseorang bisa mengetahui bahwa sesuatu dicintai Allah dengan beberapa cara, diantaranya apabila sesuatu tersebut diperintahkan oleh Allah.</b>
 
@@ -24,8 +24,8 @@ Dengan demikian kita mengetahui bahwasanya sesuatu tersebut adalah ibadah. Karen
 
 Contohnya berdoa, doa adalah ibadah karena Allah memerintahkannya. Allah Subhanahu wa Taala berfirman : 
 <div class="dalil">
-  ٱدۡعُونِىٓ أَسۡتَجِبۡ لَكُمۡۚ٦٠
-  <p>"Berdoalah kalian kepada Ku niscaya Aku akan mengabulkan." (QS. Ghafir: 60)</p>
+  ٱدۡعُونِىٓ أَسۡتَجِبۡ لَكُمۡۚ ... ٦٠ ...
+  <p>"... 'Berdoalah kalian kepada Ku niscaya Aku akan mengabulkan' ..." (QS. Ghafir: 60)</p>
 </div>
 
 Rasulullah ﷺ bersabda dalam sebuah hadits : 
@@ -50,7 +50,7 @@ Rasulullah ﷺ bersabda :
 
 Dengan demikian termasuk syirik hukumnya, seseorang menyembelih untuk jin atau untuk syaikh atau untuk yang lain selain Allah Subhanahu wa Taala.
 
-Contoh ibadah yang lain misalnya bernadzar, beristighosah, bersumpah, bertawakal, rasa takut, rasa cinta dan lain-lain. Semua itu adalah termasuk jenis-jenis ibadah yang tidak boleh seorang muslim sesekali menyerahkan salah satu dari ibadah tersebut kepada selain Allah.
+Contoh ibadah yang lain misalnya bernadzar, beristighosah, bersumpah, bertawakal, rasa takut, rasa cinta dan lain-lain. <b>Semua itu adalah termasuk jenis-jenis ibadah yang tidak boleh seorang muslim sesekali menyerahkan salah satu dari ibadah tersebut kepada selain Allah.</b>
 
 Itulah yang bisa kita sampaikan pada halaqah kali ini dan sampai bertemu kembali pada halaqah selanjutnya.
 

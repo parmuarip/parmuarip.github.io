@@ -14,9 +14,9 @@ date: 2022-10-12 00:00:00
   الحمد لله والصلاة والسلام على رسول اللَّهُ وعلى آله وصحبه أجمعين
 </div>
 
-Halaqah yang ke-8 dari silsilah ilmiyyah 'Mengenal Allah' adalah tentang diantara kesyirikan musyrikin quraisy.
+Halaqah yang ke-8 dari silsilah ilmiyyah mengenal Allah adalah tentang diantara kesyirikan musyrikin quraisy.
 
-<b>Diantara bentuk kesyirikan orang-orang musyrikin quraisy adalah berdoa, meminta dan bertaqorrub kepada orang-orang shalih yang sudah meninggal, menyerahkan sebagian ibadah kepada mereka, dengan tujuan supaya mendapatkan syafaat mereka disisi Allah, dan dengan tujuan mencari tujuan mencari kedekatan kepada Allah.</b>
+<b>Diantara bentuk kesyirikan orang-orang musyrikin quraisy adalah berdoa, meminta dan bertaqorrub kepada orang-orang shalih yang sudah meninggal, menyerahkan sebagian ibadah kepada mereka, dengan tujuan supaya mendapatkan syafaat mereka disisi Allah, dan dengan tujuan mencari kedekatan kepada Allah.</b>
 
 Allah sendiri telah menceritakan keyakinan mereka didalam Al-Quran dan mengingkarinya. Allah Subhanahu wa Taala berfirman :
 <div class="dalil">
@@ -34,7 +34,7 @@ Dalam ayat ini Allah Subhanahu wa Taala menamakan perbuatan mereka sebagai bentu
   </p>
 </div>
 
-Ayat ini menunjukan bahwa tujuan mereka menyembah orang-orang shalih, adalah agar orang-orang shalih tersebut mendekatkan mereka kepada Allah. <b>Cara meraih syafaat dihari kiamat adalah dengan memurnikan tauhid, bukan dengan kesyirikan. Dan cara dekat dengan Allah Subhanahu wa Taala adalah mendekatkan diri kepada Allah dengan iman dan amal shalih yang wajib maupun yang sunnah</b> sebagaimana orang-orang shalih tersebut melakukannya.
+Ayat ini menunjukan bahwa tujuan mereka menyembah orang-orang shalih, adalah supaya orang-orang shalih tersebut mendekatkan mereka kepada Allah. <b>Cara meraih syafaat dihari kiamat adalah dengan memurnikan tauhid, bukan dengan kesyirikan. Dan cara dekat dengan Allah Subhanahu wa Taala adalah mendekatkan diri kepada Allah dengan iman dan amal shalih yang wajib maupun yang sunnah</b> sebagaimana orang-orang shalih tersebut melakukannya.
 
 Tidak boleh seseorang menyamakan Allah dengan kepala negara yang sulit menyampaikan hajat kepadanya kecuali melalui perantara dan para pembantunya. Tidak boleh seseorang menyerupakan Allah dengan siapapun, Allah Subhanahu wa Taala Maha Mendengar, Maha Melihat, Maha Mengetahui dan Maha Kuasa sedangkan kepala negara adalah makhluk yang lemah tidak mampu melakukan semua pekerjaannya kecuali dibantu oleh para pembantunya.
 

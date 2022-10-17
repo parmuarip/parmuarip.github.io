@@ -6,6 +6,8 @@ categories:
   - Silsilah Ilmiyah
 date: 2022-10-08 00:00:00
 ---
+<audio controls="" src="https://docs.google.com/uc?export=open&id="></audio>
+
 <div class="dalil">
   السلام عليكم ورحمة الله وبركاته
   <br>
