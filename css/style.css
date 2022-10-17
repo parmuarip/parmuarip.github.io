@@ -517,13 +517,13 @@ body {
   background-repeat: repeat-x;
 }
 .content a:hover {
-  background-image: linear-gradient(transparent, transparent 4px, #d480aa 4px, #d480aa);
+  background-image: linear-gradient(transparent, transparent 4px, #2bbc8a 4px, #2bbc8a);
 }
 .content a.icon {
   background: none;
 }
 .content a.icon:hover {
-  color: #d480aa;
+  color: #2bbc8a;
 }
 .content h1 a,
 .content .h1 a,
@@ -543,7 +543,7 @@ body {
 .content h4 a:hover,
 .content h5 a:hover,
 .content h6 a:hover {
-  background-image: linear-gradient(transparent, transparent 6px, #d480aa 6px, #d480aa);
+  background-image: linear-gradient(transparent, transparent 6px, #2bbc8a 6px, #2bbc8a);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -554,7 +554,7 @@ body {
   text-decoration: none;
 }
 .content h6 a:hover {
-  background-image: linear-gradient(transparent, transparent 6px, #d480aa 6px, #d480aa);
+  background-image: linear-gradient(transparent, transparent 6px, #2bbc8a 6px, #2bbc8a);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -720,7 +720,7 @@ body {
   background: none;
 }
 #header-post a.icon:hover {
-  color: #d480aa;
+  color: #2bbc8a;
 }
 #header-post ol {
   list-style-type: none;
@@ -837,7 +837,7 @@ body {
   text-align: right;
 }
 #header-post #toc a:hover {
-  color: #d480aa;
+  color: #2bbc8a;
 }
 #header-post #toc .toc-level-1 > .toc-link {
   display: none;
@@ -936,7 +936,7 @@ body {
   background: none;
 }
 #footer-post a.icon:hover {
-  color: #d480aa;
+  color: #2bbc8a;
 }
 #footer-post #nav-footer {
   padding-right: 1rem;
@@ -1017,7 +1017,7 @@ body {
   line-height: 30px;
 }
 #footer-post #toc-footer a:hover {
-  color: #d480aa;
+  color: #2bbc8a;
 }
 #footer-post #toc-footer .toc-level-1 > .toc-link {
   display: none;
@@ -1102,7 +1102,6 @@ article header .meta * {
   font-size: 0.85rem;
 }
 article header .author {
-  text-transform: uppercase;
   letter-spacing: 0.01em;
   font-weight: 700;
 }
@@ -1204,7 +1203,7 @@ article .content .caption {
   line-height: 1.25;
 }
 .article-tag .tag-link {
-  background-image: linear-gradient(transparent, transparent 10px, #d480aa 10px, #d480aa);
+  background-image: linear-gradient(transparent, transparent 10px, #2bbc8a 10px, #2bbc8a);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -1213,7 +1212,7 @@ article .content .caption {
   content: "#";
 }
 .article-category .category-link {
-  background-image: linear-gradient(transparent, transparent 10px, #d480aa 10px, #d480aa);
+  background-image: linear-gradient(transparent, transparent 10px, #2bbc8a 10px, #2bbc8a);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
@@ -1381,8 +1380,8 @@ article .content .caption {
   font-size: 0.8em;
 }
 #search-result em.search-keyword {
-  border-bottom: 1px dashed #d480aa;
-  color: #d480aa;
+  border-bottom: 1px dashed #2bbc8a;
+  color: #2bbc8a;
   font-weight: bold;
 }
 .search-no-result {
@@ -1615,7 +1614,7 @@ code {
   color: #757575;
   font-style: italic;
   font-size: 0.8em;
-  background-image: linear-gradient(transparent, transparent 10px, #d480aa 10px, #d480aa);
+  background-image: linear-gradient(transparent, transparent 10px, #2bbc8a 10px, #2bbc8a);
   background-position: bottom;
   background-size: 100% 6px;
   background-repeat: repeat-x;
