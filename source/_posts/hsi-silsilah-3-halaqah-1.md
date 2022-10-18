@@ -3,10 +3,10 @@ author: dari Ustadz Abdullah Roy حفظه لله تعالى
 tags: []
 categories:
   - HSI
-  - Silsilah Ilmiyah
+  - Silsilah Ilmiyah 3
 date: 2022-10-16 00:00:00
 ---
-<audio controls="" src="https://docs.google.com/uc?export=open&id="></audio>
+<audio controls="" src="https://docs.google.com/uc?export=open&id=1-7VR5h6s5Ai8tBjIi27yquHTeLx4VEwN"></audio>
 
 <div class="dalil">
   السلام عليكم ورحمة الله وبركاته
@@ -51,12 +51,12 @@ yang ke-4, membawa tata cara ibadah dari Allah Subhanahu wa Taala supaya kita be
 Dan pada halaqah-halaqah selanjutnya, insya Allah, akan kita bahas satu per satu dari perkara di atas.
 
 <div class="dalil">
-وبالله التّوفيق والهداية
-<br>
-والسلام عليكم ورحمة اللّه وبركاته
+  وبالله التّوفيق والهداية
+  <br>
+  والسلام عليكم ورحمة اللّه وبركاته
 </div>
 
 <p class="signature">
-saudaramu, Abdullah Roy, 
-Di kota Al-Madinah
+  saudaramu, Abdullah Roy, 
+  Di kota Al-Madinah
 </p>
