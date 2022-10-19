@@ -1,4 +1,4 @@
-title: 'SILSILAH 3 HALAQAH 2 - RASULULLAH ﷺ MEMBAWA PERINTAH DARI ALLAH SUBHANAHU WA TAALA'
+title: 'SILSILAH 3 HALAQAH 2 - RASULULLAH ﷺ MEMBAWA PERINTAH DARI ALLAH'
 author: dari Ustadz Abdullah Roy حفظه لله تعالى
 tags: []
 categories:
@@ -18,7 +18,7 @@ Halaqah yang ke-2 dari silsilah mengenal Rasulullah ﷺ adalah mengenal Beliau s
 
 <b>Rasulullah ﷺ sebagai seorang utusan, membawa perintah-perintah dari Allah, Beliau sampaikan perintah-perintah tersebut kepada kita, supaya kita jalankan sesuai dengan kemampuan kita.</b>
 
-Beliau Rasulullah ﷺ bersabda : 
+Beliau Rasulullah ﷺ bersabda: 
 <div class="dalil">
   وَمَا أَمَرْتُكُمْ بِهِ فَأْتُوْا مِنْهُ مَا اسْتَطَعْتُمْ
   <p>
@@ -26,20 +26,16 @@ Beliau Rasulullah ﷺ bersabda :
   </p>
 </div>
 
-<b>Dan perintah Allah Subhanahu wa Taala ada 2 macam, WAJIB dan juga SUNNAH (yaitu dianjurkan).</b>
-
 <p>
-  Amalan yang WAJIB, apabila kita tinggalkan maka berdosa, seperti :
+  <b>Dan perintah Allah Subhanahu wa Taala ada 2 macam, WAJIB dan juga SUNNAH (yaitu dianjurkan).</b>
+  <br>Amalan yang <b>WAJIB, apabila kita tinggalkan maka berdosa</b>, seperti:
   <br>- sholat 5 waktu
   <br>- puasa ramadhan
   <br>- haji bagi yang wajib
   <br>- memakan hijab bagi wanita
   <br>- dan lain-lain
   <br>Maka ini adalah amalan-amalan yang wajib.
-</p>
-
-<p>
-  Adapun amalan yang SUNNAH, maka bila tidak dikerjakan, seseorang tidak berdosa, seperti :
+  <br>Adapun amalan yang <b>SUNNAH, maka bila tidak dikerjakan</b>, seseorang tidak berdosa, seperti:
   <br>- sholat rawatib
   <br>- sholat dhuha
   <br>- puasa senin dan kamis

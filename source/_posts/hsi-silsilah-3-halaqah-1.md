@@ -4,7 +4,7 @@ tags: []
 categories:
   - HSI
   - Silsilah Ilmiyah 3
-date: 2022-10-16 00:00:00
+date: 2022-10-17 00:00:00
 ---
 <audio controls="" src="https://docs.google.com/uc?export=open&id=1-7VR5h6s5Ai8tBjIi27yquHTeLx4VEwN"></audio>
 
@@ -19,7 +19,7 @@ Halaqah yang pertama dari silsilah mengenal Rasulullah ﷺ adalah tentang pentin
 <b>Pertanyaan yang ke-2, yang setiap kita akan ditanya di alam kubur adalah tentang 'siapa nabimu?'</b>. 
   
 <p>
-  Wajib atas setiap Muslim dan Muslimah untuk mengenal Nabi Muhammad ﷺ. Beliau adalah :
+  Wajib atas setiap Muslim dan Muslimah untuk mengenal Nabi Muhammad ﷺ. Beliau adalah:
   <br>- Muhammad Ibnu Abdillah Ibnu Abdil Muththalib
   <br>- termasuk keturunan Nabi Ismail bin Ibrahim Alayhimassalam
   <br>- Beliau lahir di Makkah dan diutus menjadi Nabi yang terakhir ketika berumur 40 tahun
@@ -28,12 +28,12 @@ Halaqah yang pertama dari silsilah mengenal Rasulullah ﷺ adalah tentang pentin
 </p>
 
 <p>
-Mengenal Nabi Muhammad ﷺ tidaklah cukup hanya mengenal nama dan nasab Beliau, atau menghafal keluarga dan sahabat Beliau. Mengenal Nabi Muhammad ﷺ adalah :
+Mengenal Nabi Muhammad ﷺ tidaklah cukup hanya mengenal nama dan nasab Beliau, atau menghafal keluarga dan sahabat Beliau. Mengenal Nabi Muhammad ﷺ adalah:
 <br>- mengenal tugas Beliau sebagai utusan Allah Subhanahu wa Taala kepada kita,
 <br>- mengetahui apa kewajiban kita terhadap Beliau
 </p>
 
-Allah Subhanahu wa Taala telah mengutus Beliau ﷺ kepada kita dengan membawa 4 perkara :
+Allah Subhanahu wa Taala telah mengutus Beliau ﷺ kepada kita dengan membawa 4 perkara:
 yang pertama, membawa perintah dari Allah supaya kita jalankan,
 yang ke-2, membawa larangan dari Allah Subhanahu wa Taala supaya kita jauhi,
 yang ke-3, membawa berita dari Allah Subhanahu wa Taala supaya kita benarkan,
@@ -42,7 +42,7 @@ yang ke-4, membawa tata cara ibadah dari Allah Subhanahu wa Taala supaya kita be
 <b>Kalau kita menaati beliau didalam 4 perkara ini, berarti kita pada hakikatnya telah menaati Allah, karena perintah, larangan, berita dan cara ibadah adalah dari Allah Subhanahu wa Taala, sedangkan tugas Beliau ﷺ hanyalah sekedar menyampaikan kepada kita.</b>
 
 <div class="dalil">
-  مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَااعَ ٱللَّهَ ... ٨٠ ۖ
+  مَّن يُطِعِ ٱلرَّسُولَ فَقَدْ أَطَااعَ ٱللَّهَ ۖ ... ٨٠ 
   <p>
   "Barang siapa telah mentaati Rasul, maka sungguh dia telah mentaati Allah ..." (QS. An-Nisa: 80)
   </p>
