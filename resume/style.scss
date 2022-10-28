@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald|Roboto:400,700");
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #79838c;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+html {
+  height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Oswald", sans-serif;
+}
+
+h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5em;
+}
+
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 0.8rem;
+}
+
+.container {
+  background: ghostwhite;
+  display: flex;
+  flex: auto;
+  flex-direction: column;
+  max-height: 100%;
+}
+
+.header {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  height: auto;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.7);
+  padding: 1.5rem 1rem 2.3rem 1rem;
+  position: relative;
+}
+.header:after {
+  content: "";
+  position: absolute;
+  bottom: -5rem;
+  left: 0rem;
+  height: 5.1rem;
+  display: block;
+  width: 100%;
+  z-index: 300;
+}
+.header h1 {
+  margin-top: 0.3rem;
+  margin-bottom: 0.5rem;
+  font-size: 3em;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+}
+.header h1 a {
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.header h2 {
+  font-size: 2em;
+  font-weight: 400;
+  max-width: 30rem;
+  margin: auto;
+}
+
+.body {
+  display: flex;
+  flex: auto;
+  overflow-y: auto;
+  padding: 0rem 1rem 0rem 1rem;
+}
+
+.timeline {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.timeline-item {
+  padding: 3em 2em 2em;
+  position: relative;
+  color: rgba(0, 0, 0, 0.7);
+  border-left: 2px solid rgba(0, 0, 0, 0.3);
+}
+.timeline-item p {
+  font-size: 1rem;
+}
+.timeline-item::before {
+  content: attr(date-is);
+  position: absolute;
+  left: 2em;
+  font-weight: bold;
+  top: 1em;
+  display: block;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 0.785rem;
+}
+.timeline-item::after {
+  width: 10px;
+  height: 10px;
+  display: block;
+  top: 1em;
+  position: absolute;
+  left: -7px;
+  border-radius: 10px;
+  content: "";
+  border: 2px solid rgba(0, 0, 0, 0.3);
+  background: white;
+}
+.timeline-item:last-child {
+  -o-border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 0)) 1 100%;
+     border-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 60%, rgba(0, 0, 0, 0)) 1 100%;
+}
