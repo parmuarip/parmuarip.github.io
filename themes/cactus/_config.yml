@@ -16,7 +16,7 @@ direction: ltr
 nav:
   home: /
   about: /about/
-  HSI: /categories/HSI/
+  Resume: /resume/
   projects: https://github.com/parmuarip
 
 
@@ -76,7 +76,7 @@ copyright:
 #   - gravatar: whether to use your Gravatar as the logo
 #   - grayout: whether to enable a hover effect on the logo
 logo:
-  enabled: true
+  enabled: false
   width: 50
   height: 50
   url: /images/logo.png
@@ -110,7 +110,7 @@ favicon:
 # Set the color scheme.
 # Available color schemes are 'dark', 'light', 'classic' and 'white'.
 # Alternatively, add your own custom color scheme to source/css/_colors.
-colorscheme: white
+colorscheme: dark
 
 # Maximal width of the page in rem units.
 page_width: 50
