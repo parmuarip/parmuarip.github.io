@@ -1,5 +1,5 @@
 ---
-title: Hexo dan Github
+title: Blog Sederhana dengan Hexo dan Github
 author: Lutfi Parmuarip
 tags: 
   - blog
