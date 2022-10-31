@@ -1,10 +1,10 @@
----
 title: Menggunakan GIT CLI atau GIT GUI ?
 author: Lutfi Parmuarip
-tags: 
+tags:
   - git
   - cli
   - gui
-date: 2022-10-29 12:34:56
+categories: []
+date: 2022-10-02 12:34:00
 ---
 

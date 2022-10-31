@@ -1,9 +1,9 @@
----
 title: Blog Sederhana dengan Hexo dan Github
 author: Lutfi Parmuarip
-tags: 
+tags:
   - blog
   - github
-date: 2022-10-28 12:34:56
+categories: []
+date: 2022-10-01 12:34:00
 ---
 
